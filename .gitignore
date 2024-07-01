@@ -1,0 +1,44 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Editor directories and files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Data files
+*.csv
+*.json
+*.txt
+*.pkl
+*.parquet
+*.feather
+
+# Model artifacts
+*.pth
+*.bin
+*.ckpt
+
+# Logs
+logs/
+*.log
+
+# Misc
+.DS_Store
+.idea/
+.vscode/
